@@ -2,7 +2,7 @@
 # Chatroom App
 
 ## Description
-Works alongside Chatroom API
+Works alongside [Chatroom API](https://github.com/ThisIsYoav/chatroom-api)
 
 Uses React, Socket.IO-Client and Bootstrap 5.
 
