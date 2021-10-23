@@ -21,6 +21,10 @@ body {
       rgba(202, 248, 233, 1),
       rgba(100, 100, 255, 0) 70.71%
     );
+	height: 100vh;
+}
+#root{
+	height: 100%;
 }
 
 code {
